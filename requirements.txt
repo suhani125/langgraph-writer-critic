@@ -1,0 +1,5 @@
+langgraph>=0.2
+langchain-google-genai>=2.0
+python-dotenv>=1.0
+# Optional (only if LLM_PROVIDER=anthropic):
+# langchain-anthropic>=0.3
